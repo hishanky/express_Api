@@ -1,2 +1,2 @@
 echo "stopping any existing node server"
-pkill node
+pkill -f node
