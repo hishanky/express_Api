@@ -15,7 +15,7 @@ app.get("/products", (req, res) => {
     },
     {
       Username: "Hello world",
-      password: "shanky",
+      password: "shankyi",
     },
   ]);
 });
